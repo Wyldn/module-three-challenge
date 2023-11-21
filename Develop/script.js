@@ -51,8 +51,6 @@ function generatePassword() {
 
 var generatedPassword = generatePassword();
 alert("Your generated password is: " + generatedPassword);
-
-
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
